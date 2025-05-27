@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-27 21:38:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 21:24:20 +0000"
@@ -569,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-27 21:38:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-27 21:02:30 +0000"
@@ -631,6 +643,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-27 21:41:39 +0000",
       "minecraft:skeleton": "2025-05-27 21:07:51 +0000"
     },
     "done": false
@@ -638,6 +651,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-27 20:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-27 21:41:39 +0000"
     },
     "done": true
   },
@@ -777,6 +796,7 @@
     "criteria": {
       "minecraft:beach": "2025-05-27 21:18:52 +0000",
       "minecraft:forest": "2025-05-27 20:57:56 +0000",
+      "minecraft:ocean": "2025-05-27 21:41:32 +0000",
       "minecraft:plains": "2025-05-27 20:59:51 +0000"
     },
     "done": false
@@ -861,6 +881,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-05-27 21:40:50 +0000",
       "bread": "2025-05-27 21:30:26 +0000"
     },
     "done": false
