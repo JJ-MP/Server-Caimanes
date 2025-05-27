@@ -1337,6 +1337,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zombie": "2025-05-27 21:57:51 +0000",
       "minecraft:creeper": "2025-05-27 21:52:13 +0000"
     },
     "done": false
