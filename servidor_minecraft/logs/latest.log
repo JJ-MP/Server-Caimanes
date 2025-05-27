@@ -1,20 +1,33 @@
-[16:47:58] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[16:47:58] [Server thread/INFO]: Loading properties
-[16:47:58] [Server thread/INFO]: Default game type: SURVIVAL
-[16:47:58] [Server thread/INFO]: Generating keypair
-[16:47:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:47:58] [Server thread/INFO]: Using epoll channel type
-[16:47:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:47:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:47:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:47:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:47:58] [Server thread/INFO]: Preparing level "world"
-[16:47:58] [Server thread/INFO]: Loaded 488 advancements
-[16:47:59] [Server thread/INFO]: Preparing start region for level 0
-[16:48:00] [Server thread/INFO]: Preparing spawn area: 75%
-[16:48:00] [Server thread/INFO]: Done (1.416s)! For help, type "help" or "?"
-[16:48:21] [Server thread/INFO]: J_Mafioso[/127.76.222.120:48009] logged in with entity id 163 at (-397.684359898246, 57.78874095501401, 93.59215550047409)
-[16:48:21] [Server thread/INFO]: J_Mafioso joined the game
-[17:00:24] [Server thread/INFO]: J_Mafioso tried to swim in lava
-[17:00:40] [Server thread/INFO]: J_Mafioso lost connection: Disconnected
-[17:00:40] [Server thread/INFO]: J_Mafioso left the game
+[19:49:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:49:04] [ServerMain/INFO]: No existing world data, creating new world
+[19:49:05] [ServerMain/INFO]: Loaded 1370 recipes
+[19:49:05] [ServerMain/INFO]: Loaded 1481 advancements
+[19:49:05] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[19:49:05] [Server thread/INFO]: Loading properties
+[19:49:05] [Server thread/INFO]: Default game type: SURVIVAL
+[19:49:05] [Server thread/INFO]: Generating keypair
+[19:49:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:49:05] [Server thread/INFO]: Using epoll channel type
+[19:49:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:49:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:49:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:49:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:49:05] [Server thread/INFO]: Preparing level "world"
+[19:49:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:49:11] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:49:11] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[19:49:12] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:49:12] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[19:49:13] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[19:49:14] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[19:49:14] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[19:49:15] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[19:49:15] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[19:49:15] [Server thread/INFO]: Time elapsed: 4575 ms
+[19:49:15] [Server thread/INFO]: Done (10.086s)! For help, type "help"
+[19:50:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:50:32] [Server thread/INFO]: J_Mafioso[/127.76.222.120:49681] logged in with entity id 29 at (-33.5, 76.0, 64.5)
+[19:50:32] [Server thread/INFO]: J_Mafioso joined the game
+[19:54:55] [Server thread/INFO]: J_Mafioso has made the advancement [Stone Age]
+[19:55:30] [Server thread/INFO]: J_Mafioso has made the advancement [Getting an Upgrade]
