@@ -1,0 +1,17 @@
+[16:47:58] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[16:47:58] [Server thread/INFO]: Loading properties
+[16:47:58] [Server thread/INFO]: Default game type: SURVIVAL
+[16:47:58] [Server thread/INFO]: Generating keypair
+[16:47:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:47:58] [Server thread/INFO]: Using epoll channel type
+[16:47:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:47:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:47:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:47:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:47:58] [Server thread/INFO]: Preparing level "world"
+[16:47:58] [Server thread/INFO]: Loaded 488 advancements
+[16:47:59] [Server thread/INFO]: Preparing start region for level 0
+[16:48:00] [Server thread/INFO]: Preparing spawn area: 75%
+[16:48:00] [Server thread/INFO]: Done (1.416s)! For help, type "help" or "?"
+[16:48:21] [Server thread/INFO]: J_Mafioso[/127.76.222.120:48009] logged in with entity id 163 at (-397.684359898246, 57.78874095501401, 93.59215550047409)
+[16:48:21] [Server thread/INFO]: J_Mafioso joined the game
