@@ -528,6 +528,7 @@
       "minecraft:pillager": "2025-05-27 21:41:20 +0000",
       "minecraft:skeleton": "2025-05-27 20:23:30 +0000",
       "minecraft:zombified_piglin": "2025-05-28 20:05:11 +0000",
+      "minecraft:witch": "2025-05-28 21:06:36 +0000",
       "minecraft:spider": "2025-05-27 20:10:03 +0000",
       "minecraft:zombie": "2025-05-27 20:09:14 +0000",
       "minecraft:creeper": "2025-05-27 21:11:15 +0000",
@@ -2428,6 +2429,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-05-28 21:11:29 +0000",
       "minecraft:pig": "2025-05-28 00:24:57 +0000"
     },
     "done": false
@@ -2591,6 +2593,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-28 20:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-28 21:04:43 +0000"
     },
     "done": true
   },
