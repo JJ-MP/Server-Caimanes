@@ -7,10 +7,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-05-28 19:20:09 +0000",
       "minecraft:beach": "2025-05-27 20:23:10 +0000",
+      "minecraft:dark_forest": "2025-05-28 19:19:55 +0000",
       "minecraft:forest": "2025-05-27 19:50:33 +0000",
       "minecraft:ocean": "2025-05-27 20:57:45 +0000",
       "minecraft:river": "2025-05-27 20:56:12 +0000",
+      "minecraft:birch_forest": "2025-05-28 19:19:06 +0000",
       "minecraft:plains": "2025-05-27 19:57:12 +0000"
     },
     "done": false
@@ -357,7 +360,8 @@
       "cooked_cod": "2025-05-27 23:47:39 +0000",
       "dried_kelp": "2025-05-27 23:26:24 +0000",
       "cooked_beef": "2025-05-27 20:02:31 +0000",
-      "beef": "2025-05-27 21:11:30 +0000"
+      "beef": "2025-05-27 21:11:30 +0000",
+      "cooked_salmon": "2025-05-28 19:18:00 +0000"
     },
     "done": false
   },
@@ -2499,6 +2503,18 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-05-28 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-28 19:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-05-28 19:17:49 +0000"
     },
     "done": true
   },
