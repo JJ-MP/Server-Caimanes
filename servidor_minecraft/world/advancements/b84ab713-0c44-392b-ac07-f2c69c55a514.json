@@ -525,6 +525,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-27 21:41:20 +0000",
       "minecraft:skeleton": "2025-05-27 20:23:30 +0000",
+      "minecraft:zombified_piglin": "2025-05-28 20:05:11 +0000",
       "minecraft:spider": "2025-05-27 20:10:03 +0000",
       "minecraft:zombie": "2025-05-27 20:09:14 +0000",
       "minecraft:creeper": "2025-05-27 21:11:15 +0000"
@@ -2506,6 +2507,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-28 19:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-05-28 19:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-28 19:23:37 +0000"
@@ -2527,12 +2540,6 @@
   "minecraft:recipes/transportation/pale_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-28 19:23:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-05-28 19:17:22 +0000"
     },
     "done": true
   },
@@ -2569,12 +2576,6 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-28 19:23:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2025-05-28 19:17:49 +0000"
     },
     "done": true
   },
