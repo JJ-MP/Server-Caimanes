@@ -356,7 +356,9 @@
       "mutton": "2025-05-27 21:12:07 +0000",
       "chicken": "2025-05-27 21:11:33 +0000",
       "bread": "2025-05-27 21:30:19 +0000",
+      "rotten_flesh": "2025-05-29 02:01:02 +0000",
       "cooked_mutton": "2025-05-27 21:15:59 +0000",
+      "glow_berries": "2025-05-29 01:52:17 +0000",
       "dried_kelp": "2025-05-27 23:26:24 +0000",
       "cooked_beef": "2025-05-27 20:02:31 +0000",
       "beef": "2025-05-27 21:11:30 +0000",
@@ -364,6 +366,7 @@
       "apple": "2025-05-27 20:11:57 +0000",
       "cooked_chicken": "2025-05-27 20:38:43 +0000",
       "cooked_cod": "2025-05-27 23:47:39 +0000",
+      "cod": "2025-05-29 02:09:10 +0000",
       "cooked_salmon": "2025-05-28 19:18:00 +0000",
       "carrot": "2025-05-28 22:13:18 +0000"
     },
@@ -529,6 +532,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-27 21:41:20 +0000",
       "minecraft:skeleton": "2025-05-27 20:23:30 +0000",
+      "minecraft:piglin": "2025-05-29 02:26:05 +0000",
       "minecraft:zombified_piglin": "2025-05-28 20:05:11 +0000",
       "minecraft:enderman": "2025-05-28 22:35:58 +0000",
       "minecraft:witch": "2025-05-28 21:06:36 +0000",
@@ -2827,6 +2831,18 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-05-29 01:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-05-29 02:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-29 01:51:21 +0000"
     },
     "done": true
   },
