@@ -1,29 +1,24 @@
-[23:20:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:20:39] [ServerMain/INFO]: Loaded 1370 recipes
-[23:20:39] [ServerMain/INFO]: Loaded 1481 advancements
-[23:20:39] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[23:20:39] [Server thread/INFO]: Loading properties
-[23:20:39] [Server thread/INFO]: Default game type: SURVIVAL
-[23:20:39] [Server thread/INFO]: Generating keypair
-[23:20:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:20:40] [Server thread/INFO]: Using epoll channel type
-[23:20:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:20:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:20:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:20:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:20:40] [Server thread/INFO]: Preparing level "world"
-[23:20:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:20:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:20:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:20:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:20:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:20:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:20:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:20:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:20:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:20:44] [Server thread/INFO]: Time elapsed: 4045 ms
-[23:20:44] [Server thread/INFO]: Done (4.414s)! For help, type "help"
-[23:20:45] [Server thread/INFO]: maza[/127.124.82.66:55367] logged in with entity id 49 at (-5.787082637026151, 62.875, -0.11529863919433833)
-[23:20:45] [Server thread/INFO]: maza joined the game
-[23:21:37] [Server thread/INFO]: You whisper to maza: voy hacer un mandado ahora entro
-[23:22:49] [Server thread/INFO]: No player was found
+[00:00:39] [Server thread/INFO]: maza[/127.124.82.66:57135] logged in with entity id 1192 at (-24.82791661928144, 63.0, 51.517591571051575)
+[00:00:39] [Server thread/INFO]: maza joined the game
+[00:00:52] [Server thread/INFO]: [Not Secure] <J_Mafioso> que haces mano
+[00:01:03] [Server thread/INFO]: [Not Secure] <maza> acueestese}
+[00:01:06] [Server thread/INFO]: [Not Secure] <J_Mafioso> ok
+[00:01:37] [Server thread/INFO]: [Not Secure] <J_Mafioso> mano horita no puedo hablar
+[00:01:44] [Server thread/INFO]: [Not Secure] <maza> ok bb
+[00:01:46] [Server thread/INFO]: [Not Secure] <maza> mire
+[00:01:50] [Server thread/INFO]: [Not Secure] <J_Mafioso> q paso
+[00:01:59] [Server thread/INFO]: [Not Secure] <maza> intente conseguir pollos
+[00:02:05] [Server thread/INFO]: [Not Secure] <J_Mafioso> dale
+[00:03:23] [Server thread/INFO]: [Not Secure] <J_Mafioso> mano cuando se salio horita
+[00:03:26] [Server thread/INFO]: [Not Secure] <J_Mafioso> fue porq
+[00:03:35] [Server thread/INFO]: [Not Secure] <maza> mano se me cerro
+[00:03:40] [Server thread/INFO]: [Not Secure] <J_Mafioso> a mi no
+[00:03:44] [Server thread/INFO]: [Not Secure] <J_Mafioso> y habia entrado
+[00:03:44] [Server thread/INFO]: [Not Secure] <maza> cuando se apaga
+[00:03:54] [Server thread/INFO]: [Not Secure] <J_Mafioso> que raro
+[00:04:14] [Server thread/INFO]: [Not Secure] <maza> mano hay una linea detierra
+[00:04:23] [Server thread/INFO]: [Not Secure] <J_Mafioso> sisa para los pollos
+[00:04:32] [Server thread/INFO]: [Not Secure] <maza> no la quite porq es pa q llegue elpasto
+[00:05:07] [Server thread/INFO]: [Not Secure] <maza> mano q tal el espacio q e abierto
+[00:05:14] [Server thread/INFO]: [Not Secure] <J_Mafioso> sabroso mano
+[00:05:19] [Server thread/INFO]: [Not Secure] <J_Mafioso> vamos ser full caimanes
