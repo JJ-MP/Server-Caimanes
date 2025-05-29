@@ -2327,6 +2327,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-05-28 23:33:01 +0000",
+      "minecraft:chicken": "2025-05-29 01:03:34 +0000",
       "minecraft:pig": "2025-05-28 22:16:11 +0000"
     },
     "done": false
@@ -2385,9 +2386,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-29 01:04:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-05-29 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-29 01:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-29 01:04:25 +0000"
     },
     "done": true
   },
