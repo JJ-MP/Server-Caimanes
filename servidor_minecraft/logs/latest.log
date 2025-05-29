@@ -1,27 +1,28 @@
-[15:47:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:47:11] [ServerMain/INFO]: Loaded 1370 recipes
-[15:47:11] [ServerMain/INFO]: Loaded 1481 advancements
-[15:47:11] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[15:47:11] [Server thread/INFO]: Loading properties
-[15:47:11] [Server thread/INFO]: Default game type: SURVIVAL
-[15:47:11] [Server thread/INFO]: Generating keypair
-[15:47:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:47:11] [Server thread/INFO]: Using epoll channel type
-[15:47:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:47:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:47:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:47:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:47:12] [Server thread/INFO]: Preparing level "world"
-[15:47:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:47:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:47:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:47:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:47:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:47:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:47:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:47:15] [Server thread/INFO]: Time elapsed: 2841 ms
-[15:47:15] [Server thread/INFO]: Done (3.061s)! For help, type "help"
-[15:48:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:58:21] [Server thread/INFO]: maza[/127.124.82.66:39457] logged in with entity id 194 at (-1.2376852588348388, 63.5625, 39.376339084156776)
-[15:58:21] [Server thread/INFO]: maza joined the game
-[16:16:25] [Server thread/INFO]: maza has made the advancement [Voluntary Exile]
+[22:27:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:27:20] [ServerMain/INFO]: Loaded 1370 recipes
+[22:27:20] [ServerMain/INFO]: Loaded 1481 advancements
+[22:27:21] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[22:27:21] [Server thread/INFO]: Loading properties
+[22:27:21] [Server thread/INFO]: Default game type: SURVIVAL
+[22:27:21] [Server thread/INFO]: Generating keypair
+[22:27:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:27:21] [Server thread/INFO]: Using epoll channel type
+[22:27:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:27:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:27:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:27:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:27:21] [Server thread/INFO]: Preparing level "world"
+[22:27:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 48%
+[22:27:26] [Server thread/INFO]: Time elapsed: 4614 ms
+[22:27:26] [Server thread/INFO]: Done (4.988s)! For help, type "help"
+[22:28:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
