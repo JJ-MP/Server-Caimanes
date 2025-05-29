@@ -538,6 +538,7 @@
       "minecraft:pillager": "2025-05-27 21:41:39 +0000",
       "minecraft:skeleton": "2025-05-27 21:07:51 +0000",
       "minecraft:piglin": "2025-05-27 23:12:20 +0000",
+      "minecraft:enderman": "2025-05-29 00:44:09 +0000",
       "minecraft:zombie": "2025-05-27 23:03:38 +0000",
       "minecraft:hoglin": "2025-05-27 23:11:19 +0000"
     },
@@ -1027,7 +1028,8 @@
       "cooked_chicken": "2025-05-27 21:49:31 +0000",
       "rotten_flesh": "2025-05-27 23:05:10 +0000",
       "beef": "2025-05-27 22:11:07 +0000",
-      "porkchop": "2025-05-27 21:58:22 +0000"
+      "porkchop": "2025-05-27 21:58:22 +0000",
+      "carrot": "2025-05-29 00:40:13 +0000"
     },
     "done": false
   },
@@ -1956,6 +1958,54 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 00:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-29 00:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 00:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 00:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-29 00:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 00:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 00:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 00:38:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-29 00:34:07 +0000"
@@ -1965,6 +2015,24 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-29 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 00:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 00:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 00:38:37 +0000"
     },
     "done": true
   },
