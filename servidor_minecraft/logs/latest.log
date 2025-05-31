@@ -40,3 +40,9 @@
 [02:38:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=10, y=69, z=86} ji{x=9, y=68, z=85}
 [02:38:41] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=8, y=67, z=87} ji{x=8, y=68, z=87}
 [02:43:39] [Server thread/INFO]: [Not Secure] <J_Mafioso> mire
+[02:57:34] [Server thread/INFO]: maza has made the advancement [Voluntary Exile]
+[02:59:21] [Server thread/INFO]: maza lost connection: Timed out
+[02:59:21] [Server thread/INFO]: maza left the game
+[02:59:21] [Server thread/WARN]: handleDisconnection() called twice
+[03:00:09] [Server thread/INFO]: maza[/127.124.82.66:52373] logged in with entity id 15554 at (31.474542643273562, 68.0, 73.66321204290851)
+[03:00:09] [Server thread/INFO]: maza joined the game

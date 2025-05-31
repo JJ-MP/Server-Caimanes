@@ -1384,6 +1384,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-31 02:57:34 +0000",
       "minecraft:skeleton": "2025-05-28 21:05:24 +0000",
       "minecraft:piglin": "2025-05-27 23:12:13 +0000",
       "minecraft:spider": "2025-05-27 22:57:50 +0000",
@@ -2558,6 +2559,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-05-30 02:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-31 02:57:34 +0000"
     },
     "done": true
   },
