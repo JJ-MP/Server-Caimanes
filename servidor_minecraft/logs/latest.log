@@ -41,3 +41,8 @@
 [18:30:02] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
 [18:30:02] [Server thread/INFO]: ...reative @a/gamemode creative J_Mafioso<--[HERE]
 [18:30:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:33:05] [Server thread/INFO]: Made J_Mafioso a server operator
+[18:33:22] [Server thread/INFO]: J_Mafioso[/127.76.222.120:59497] logged in with entity id 20670 at (-56.36445958785802, 24.0, 10.817716427539944)
+[18:33:22] [Server thread/INFO]: J_Mafioso joined the game
+[18:33:26] [Server thread/INFO]: J_Mafioso tried to swim in lava
+[18:33:50] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
