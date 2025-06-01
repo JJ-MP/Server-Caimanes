@@ -32,3 +32,12 @@
 [17:05:46] [Server thread/INFO]: J_Mafioso joined the game
 [18:16:48] [Server thread/INFO]: J_Mafioso was blown up by Creeper
 [18:19:55] [Server thread/INFO]: J_Mafioso was doomed to fall by Hoglin
+[18:29:00] [Server thread/INFO]: J_Mafioso lost connection: Disconnected
+[18:29:00] [Server thread/INFO]: J_Mafioso left the game
+[18:29:29] [Server thread/INFO]: J_Mafioso[/127.76.222.120:37947] logged in with entity id 20552 at (-56.36445958785802, 25.86704563415427, 10.817716427539944)
+[18:29:29] [Server thread/INFO]: J_Mafioso joined the game
+[18:29:38] [Server thread/INFO]: J_Mafioso lost connection: Disconnected
+[18:29:38] [Server thread/INFO]: J_Mafioso left the game
+[18:30:02] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[18:30:02] [Server thread/INFO]: ...reative @a/gamemode creative J_Mafioso<--[HERE]
+[18:30:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
