@@ -1,28 +1,29 @@
-[01:07:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:07:23] [ServerMain/INFO]: Loaded 1370 recipes
-[01:07:23] [ServerMain/INFO]: Loaded 1481 advancements
-[01:07:23] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[01:07:23] [Server thread/INFO]: Loading properties
-[01:07:23] [Server thread/INFO]: Default game type: SURVIVAL
-[01:07:23] [Server thread/INFO]: Generating keypair
-[01:07:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:07:24] [Server thread/INFO]: Using epoll channel type
-[01:07:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:07:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:07:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:07:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:07:24] [Server thread/INFO]: Preparing level "world"
-[01:07:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:07:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:28] [Server thread/INFO]: Time elapsed: 3838 ms
-[01:07:28] [Server thread/INFO]: Done (4.288s)! For help, type "help"
-[01:08:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:15:40] [Server thread/INFO]: J_Mafioso[/127.76.222.120:49261] logged in with entity id 156 at (51.818573725629676, 63.0, 45.847721567853824)
-[01:15:40] [Server thread/INFO]: J_Mafioso joined the game
+[01:49:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:49:10] [ServerMain/INFO]: Loaded 1370 recipes
+[01:49:10] [ServerMain/INFO]: Loaded 1481 advancements
+[01:49:10] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[01:49:10] [Server thread/INFO]: Loading properties
+[01:49:10] [Server thread/INFO]: Default game type: SURVIVAL
+[01:49:10] [Server thread/INFO]: Generating keypair
+[01:49:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:49:10] [Server thread/INFO]: Using epoll channel type
+[01:49:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:49:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:49:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:49:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:49:10] [Server thread/INFO]: Preparing level "world"
+[01:49:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:49:15] [Server thread/INFO]: Time elapsed: 4739 ms
+[01:49:15] [Server thread/INFO]: Done (5.062s)! For help, type "help"
+[01:49:27] [Server thread/INFO]: J_Mafioso[/127.76.222.120:41921] logged in with entity id 133 at (74.33626208734515, 59.649495282503146, -71.094969371515)
+[01:49:27] [Server thread/INFO]: J_Mafioso joined the game
