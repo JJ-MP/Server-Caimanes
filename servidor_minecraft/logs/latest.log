@@ -1,128 +1,29 @@
-[01:49:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:49:10] [ServerMain/INFO]: Loaded 1370 recipes
-[01:49:10] [ServerMain/INFO]: Loaded 1481 advancements
-[01:49:10] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[01:49:10] [Server thread/INFO]: Loading properties
-[01:49:10] [Server thread/INFO]: Default game type: SURVIVAL
-[01:49:10] [Server thread/INFO]: Generating keypair
-[01:49:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:49:10] [Server thread/INFO]: Using epoll channel type
-[01:49:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:49:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:49:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:49:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:49:10] [Server thread/INFO]: Preparing level "world"
-[01:49:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:49:15] [Server thread/INFO]: Time elapsed: 4739 ms
-[01:49:15] [Server thread/INFO]: Done (5.062s)! For help, type "help"
-[01:49:27] [Server thread/INFO]: J_Mafioso[/127.76.222.120:41921] logged in with entity id 133 at (74.33626208734515, 59.649495282503146, -71.094969371515)
-[01:49:27] [Server thread/INFO]: J_Mafioso joined the game
-[02:56:02] [Server thread/INFO]: gollo:)[/127.190.170.83:35053] logged in with entity id 15990 at (2.911181861161292, 63.0, 19.626638823019338)
-[02:56:02] [Server thread/INFO]: gollo:) joined the game
-[02:57:31] [Server thread/INFO]: gollo:) has made the advancement [A Seedy Place]
-[02:57:44] [Server thread/INFO]: [Not Secure] <J_Mafioso> whats up
-[03:00:53] [Server thread/INFO]: [Not Secure] <gollo:)> mano que haces
-[03:00:58] [Server thread/INFO]: [Not Secure] <J_Mafioso> una granja
-[03:01:04] [Server thread/INFO]: [Not Secure] <gollo:)> de que xd
-[03:01:18] [Server thread/INFO]: [Not Secure] <J_Mafioso> aldeanas hot
-[03:01:31] [Server thread/INFO]: [Not Secure] <J_Mafioso> de experiencia XD
-[03:04:01] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=74, y=93, z=-81} ji{x=-30, y=69, z=64}
-[03:06:50] [Server thread/INFO]: gollo:) was blown up by Creeper
-[03:07:34] [Server thread/INFO]: gollo:) was shot by Skeleton
-[03:07:38] [Server thread/INFO]: [Not Secure] <J_Mafioso> no
-[03:07:41] [Server thread/INFO]: [Not Secure] <J_Mafioso> nooo
-[03:07:45] [Server thread/INFO]: [Not Secure] <J_Mafioso> que ta haciendo mano
-[03:16:37] [Server thread/INFO]: [Not Secure] <J_Mafioso> 4
-[03:16:45] [Server thread/INFO]: [Not Secure] <gollo:)> xd
-[03:16:50] [Server thread/INFO]: [Not Secure] <J_Mafioso> XD
-[03:16:51] [Server thread/INFO]: [Not Secure] <gollo:)> una casa
-[03:16:56] [Server thread/INFO]: [Not Secure] <J_Mafioso> a?
-[03:17:11] [Server thread/INFO]: [Not Secure] <J_Mafioso> aaa
-[03:18:41] [Server thread/INFO]: [Not Secure] <J_Mafioso> 5
-[03:18:53] [Server thread/INFO]: [Not Secure] <gollo:)> 5?
-[03:19:02] [Server thread/INFO]: [Not Secure] <J_Mafioso> 5 capas llevvo
-[03:19:18] [Server thread/INFO]: [Not Secure] <gollo:)> de que
-[03:19:23] [Server thread/INFO]: [Not Secure] <J_Mafioso> de la granja
-[03:19:37] [Server thread/INFO]: [Not Secure] <gollo:)> qqq
-[03:19:39] [Server thread/INFO]: [Not Secure] <gollo:)> aaa
-[03:21:23] [Server thread/INFO]: [Not Secure] <J_Mafioso> 6
-[03:24:31] [Server thread/INFO]: [Not Secure] <J_Mafioso> 7
-[03:27:49] [Server thread/INFO]: [Not Secure] <J_Mafioso> 8
-[03:29:49] [Server thread/INFO]: [Not Secure] <J_Mafioso> 9
-[03:32:25] [Server thread/INFO]: [Not Secure] <J_Mafioso> 10
-[03:36:06] [Server thread/INFO]: [Not Secure] <J_Mafioso> 1
-[03:41:55] [Server thread/INFO]: [Not Secure] <J_Mafioso> mano
-[03:41:57] [Server thread/INFO]: [Not Secure] <J_Mafioso> vamos a dormir
-[03:41:59] [Server thread/INFO]: [Not Secure] <gollo:)> dilo
-[03:42:29] [Server thread/INFO]: [Not Secure] <J_Mafioso> nice
-[03:42:54] [Server thread/INFO]: [Not Secure] <J_Mafioso> mano tiene
-[03:42:59] [Server thread/INFO]: [Not Secure] <J_Mafioso> tela de araña
-[03:43:05] [Server thread/INFO]: [Not Secure] <gollo:)> hilo
-[03:43:07] [Server thread/INFO]: [Not Secure] <J_Mafioso> si
-[03:43:11] [Server thread/INFO]: [Not Secure] <gollo:)> 5
-[03:43:15] [Server thread/INFO]: [Not Secure] <J_Mafioso> dame
-[03:43:21] [Server thread/INFO]: [Not Secure] <J_Mafioso> messirve
-[03:43:30] [Server thread/INFO]: [Not Secure] <J_Mafioso> gracias mano
-[03:43:34] [Server thread/INFO]: [Not Secure] <J_Mafioso> ojo
-[03:43:44] [Server thread/INFO]: [Not Secure] <gollo:)> como esta quedando
-[03:43:49] [Server thread/INFO]: [Not Secure] <J_Mafioso> fina mano
-[03:43:52] [Server thread/INFO]: [Not Secure] <J_Mafioso> moderna
-[03:43:57] [Server thread/INFO]: [Not Secure] <gollo:)> sisa
-[04:02:00] [Server thread/INFO]: gollo:) was slain by Enderman
-[04:02:07] [Server thread/INFO]: [Not Secure] <J_Mafioso> noooo
-[04:06:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-91, y=66, z=61} ji{x=-91, y=64, z=61}
-[04:06:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-91, y=66, z=61} ji{x=-91, y=64, z=61}
-[04:06:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-91, y=66, z=61} ji{x=-91, y=64, z=61}
-[04:06:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-92, y=66, z=61} ji{x=-91, y=64, z=61}
-[04:06:33] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-89, y=66, z=63} ji{x=-88, y=65, z=63}
-[04:06:33] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-89, y=66, z=63} ji{x=-88, y=65, z=63}
-[04:06:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-90, y=66, z=58} ji{x=-90, y=66, z=56}
-[04:07:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-106, y=73, z=47} ji{x=-107, y=71, z=49}
-[04:07:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-106, y=73, z=47} ji{x=-107, y=71, z=49}
-[04:07:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-108, y=73, z=46} ji{x=-109, y=71, z=46}
-[04:07:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-108, y=73, z=49} ji{x=-108, y=71, z=50}
-[04:13:46] [Server thread/INFO]: [Not Secure] <J_Mafioso> mano vamos a dormir
-[04:13:54] [Server thread/INFO]: [Not Secure] <J_Mafioso> para que no me salgan mobs en la granja
-[04:23:00] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10, y=70, z=83} ji{x=-16, y=69, z=71}
-[04:23:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10, y=70, z=83} ji{x=-16, y=69, z=70}
-[04:23:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-14, y=69, z=64} ji{x=-16, y=69, z=69}
-[04:24:50] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[04:27:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=69, z=64}
-[04:28:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=69, z=66}
-[04:28:07] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=69, z=69}
-[04:28:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=68, z=73}
-[04:28:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=69, z=71}
-[04:28:09] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=68, z=73}
-[04:28:10] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=68, z=75}
-[04:28:10] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=68, z=74}
-[04:28:10] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=68, z=75}
-[04:39:30] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[04:41:59] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[04:43:07] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[04:43:34] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[04:43:41] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[04:44:03] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[04:44:41] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[04:44:50] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[04:46:47] [Server thread/INFO]: [Not Secure] <gollo:)> bueno mano
-[04:46:56] [Server thread/INFO]: [Not Secure] <J_Mafioso> va dormir
-[04:46:59] [Server thread/INFO]: [Not Secure] <gollo:)> yo me largo a dormir
-[04:47:01] [Server thread/INFO]: [Not Secure] <J_Mafioso> dale
-[04:47:04] [Server thread/INFO]: [Not Secure] <J_Mafioso> jajaja
-[04:47:10] [Server thread/INFO]: [Not Secure] <gollo:)> ya termine la casita
-[04:47:17] [Server thread/INFO]: [Not Secure] <J_Mafioso> horita la veo
-[04:47:23] [Server thread/INFO]: [Not Secure] <J_Mafioso> esta vrg me tiene loco
-[04:50:05] [Server thread/INFO]: [Not Secure] <gollo:)> me imagino ahora si hablamos
-[04:50:13] [Server thread/INFO]: [Not Secure] <J_Mafioso> dale mano
-[04:50:38] [Server thread/INFO]: gollo:) lost connection: Disconnected
-[04:50:38] [Server thread/INFO]: gollo:) left the game
+[16:22:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:22:41] [ServerMain/INFO]: Loaded 1370 recipes
+[16:22:41] [ServerMain/INFO]: Loaded 1481 advancements
+[16:22:41] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[16:22:41] [Server thread/INFO]: Loading properties
+[16:22:41] [Server thread/INFO]: Default game type: SURVIVAL
+[16:22:41] [Server thread/INFO]: Generating keypair
+[16:22:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:22:42] [Server thread/INFO]: Using epoll channel type
+[16:22:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:22:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:22:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:22:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:22:42] [Server thread/INFO]: Preparing level "world"
+[16:22:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:22:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:46] [Server thread/INFO]: Time elapsed: 4369 ms
+[16:22:46] [Server thread/INFO]: Done (4.633s)! For help, type "help"
+[16:23:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:31:39] [Server thread/INFO]: gollo:)[/127.190.170.83:44683] logged in with entity id 132 at (5.279637855173056, 72.0, 102.84089888561171)
+[16:31:39] [Server thread/INFO]: gollo:) joined the game
