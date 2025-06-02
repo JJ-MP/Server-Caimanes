@@ -78,3 +78,16 @@
 [03:43:49] [Server thread/INFO]: [Not Secure] <J_Mafioso> fina mano
 [03:43:52] [Server thread/INFO]: [Not Secure] <J_Mafioso> moderna
 [03:43:57] [Server thread/INFO]: [Not Secure] <gollo:)> sisa
+[04:02:00] [Server thread/INFO]: gollo:) was slain by Enderman
+[04:02:07] [Server thread/INFO]: [Not Secure] <J_Mafioso> noooo
+[04:06:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-91, y=66, z=61} ji{x=-91, y=64, z=61}
+[04:06:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-91, y=66, z=61} ji{x=-91, y=64, z=61}
+[04:06:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-91, y=66, z=61} ji{x=-91, y=64, z=61}
+[04:06:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-92, y=66, z=61} ji{x=-91, y=64, z=61}
+[04:06:33] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-89, y=66, z=63} ji{x=-88, y=65, z=63}
+[04:06:33] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-89, y=66, z=63} ji{x=-88, y=65, z=63}
+[04:06:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-90, y=66, z=58} ji{x=-90, y=66, z=56}
+[04:07:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-106, y=73, z=47} ji{x=-107, y=71, z=49}
+[04:07:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-106, y=73, z=47} ji{x=-107, y=71, z=49}
+[04:07:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-108, y=73, z=46} ji{x=-109, y=71, z=46}
+[04:07:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-108, y=73, z=49} ji{x=-108, y=71, z=50}
