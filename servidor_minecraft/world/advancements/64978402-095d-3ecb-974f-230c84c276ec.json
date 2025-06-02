@@ -2341,45 +2341,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_lilac": "2025-06-02 04:06:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/magenta_bundle": {
-    "criteria": {
-      "has_magenta_dye": "2025-06-02 04:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-06-02 04:09:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-02 04:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-02 04:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-02 04:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_pink_dye": "2025-06-02 04:08:28 +0000"
+      "wheat": "2025-06-02 02:57:31 +0000"
     },
     "done": true
   },
@@ -2389,15 +2353,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_candle": {
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-02 03:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-02 04:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_pink_dye": "2025-06-02 04:08:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:recipes/decorations/pink_candle": {
     "criteria": {
-      "has_bow": "2025-06-02 04:29:09 +0000"
+      "has_pink_dye": "2025-06-02 04:08:28 +0000"
     },
     "done": true
   },
@@ -2419,21 +2395,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_magenta_dye": "2025-06-02 04:08:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/pink_bundle": {
     "criteria": {
       "has_pink_dye": "2025-06-02 04:08:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-06-02 02:57:31 +0000"
     },
     "done": true
   },
@@ -2443,21 +2407,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_candle": {
-    "criteria": {
-      "has_magenta_dye": "2025-06-02 04:08:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_pink_dye": "2025-06-02 04:08:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/tools/magenta_bundle": {
     "criteria": {
-      "has_iron_block": "2025-06-02 03:27:02 +0000"
+      "has_magenta_dye": "2025-06-02 04:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-02 04:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-02 04:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-02 04:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-06-02 04:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-06-02 04:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-02 04:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-02 04:29:09 +0000"
     },
     "done": true
   },
