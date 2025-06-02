@@ -2461,5 +2461,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-06-02 17:06:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-02 17:06:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
