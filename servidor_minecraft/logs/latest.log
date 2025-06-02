@@ -93,3 +93,16 @@
 [04:07:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-108, y=73, z=49} ji{x=-108, y=71, z=50}
 [04:13:46] [Server thread/INFO]: [Not Secure] <J_Mafioso> mano vamos a dormir
 [04:13:54] [Server thread/INFO]: [Not Secure] <J_Mafioso> para que no me salgan mobs en la granja
+[04:23:00] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10, y=70, z=83} ji{x=-16, y=69, z=71}
+[04:23:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10, y=70, z=83} ji{x=-16, y=69, z=70}
+[04:23:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-14, y=69, z=64} ji{x=-16, y=69, z=69}
+[04:24:50] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
+[04:27:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=69, z=64}
+[04:28:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=69, z=66}
+[04:28:07] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=69, z=69}
+[04:28:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=68, z=73}
+[04:28:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=69, z=71}
+[04:28:09] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=68, z=73}
+[04:28:10] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=68, z=75}
+[04:28:10] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=68, z=74}
+[04:28:10] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=32, y=71, z=98} ji{x=-16, y=68, z=75}

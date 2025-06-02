@@ -2395,6 +2395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-02 04:29:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_pink_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-02 04:08:28 +0000"
