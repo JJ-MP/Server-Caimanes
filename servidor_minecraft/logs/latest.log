@@ -178,3 +178,9 @@
 [02:28:59] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
 [02:37:09] [Server thread/WARN]: J_Mafioso moved too quickly! 10.029771599134975,0.0,-1.0480205668198437
 [02:39:26] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
+[02:40:17] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
+[02:41:57] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
+[02:44:11] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
+[02:44:53] [Server thread/WARN]: Player J_Mafioso just tried to change non-editable sign
+[02:44:55] [Server thread/WARN]: Player J_Mafioso just tried to change non-editable sign
+[02:46:53] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
