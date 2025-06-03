@@ -2588,9 +2588,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "shot_arrow": "2025-06-03 01:36:28 +0000"
+      "has_stone_slab": "2025-06-03 01:35:16 +0000"
     },
     "done": true
   },
@@ -2600,9 +2600,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_stone_slab": "2025-06-03 01:35:16 +0000"
+      "shot_arrow": "2025-06-03 01:36:28 +0000"
     },
     "done": true
   },
