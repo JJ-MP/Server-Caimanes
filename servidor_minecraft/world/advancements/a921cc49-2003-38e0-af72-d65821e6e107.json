@@ -1391,6 +1391,7 @@
       "minecraft:spider": "2025-05-27 22:57:50 +0000",
       "minecraft:zombie": "2025-05-27 21:57:51 +0000",
       "minecraft:creeper": "2025-05-27 21:52:13 +0000",
+      "minecraft:zombie_villager": "2025-06-03 01:37:11 +0000",
       "minecraft:hoglin": "2025-05-28 20:55:27 +0000"
     },
     "done": false
@@ -2578,6 +2579,30 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-02 16:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-03 01:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-03 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-03 01:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-03 01:35:16 +0000"
     },
     "done": true
   },
