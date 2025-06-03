@@ -1,33 +1,11 @@
-[23:48:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:48:13] [ServerMain/INFO]: Loaded 1370 recipes
-[23:48:13] [ServerMain/INFO]: Loaded 1481 advancements
-[23:48:13] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[23:48:13] [Server thread/INFO]: Loading properties
-[23:48:13] [Server thread/INFO]: Default game type: SURVIVAL
-[23:48:13] [Server thread/INFO]: Generating keypair
-[23:48:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:48:14] [Server thread/INFO]: Using epoll channel type
-[23:48:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:48:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:48:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:48:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:48:14] [Server thread/INFO]: Preparing level "world"
-[23:48:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:48:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:48:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:48:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:48:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:48:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:48:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:48:17] [Server thread/INFO]: Time elapsed: 2856 ms
-[23:48:17] [Server thread/INFO]: Done (3.142s)! For help, type "help"
-[23:49:00] [Server thread/INFO]: maza[/127.124.82.66:38513] logged in with entity id 197 at (-16.778582152434367, 94.0, 12.321182114171043)
-[23:49:00] [Server thread/INFO]: maza joined the game
-[23:54:52] [Server thread/INFO]: You whisper to maza: viva peur
-[23:54:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:54:52] [Server thread/INFO]: <--[HERE]
-[23:55:02] [Server thread/INFO]: You whisper to maza: peru*
-[23:56:09] [Server thread/WARN]: UUID of added entity already exists: chf['Cod'/1173, l='ServerLevel[world]', x=-0.57, y=62.10, z=15.43]
-[23:56:09] [Server thread/WARN]: UUID of added entity already exists: chf['Cod'/1175, l='ServerLevel[world]', x=37.64, y=50.26, z=25.57]
-[23:56:28] [Server thread/INFO]: [Not Secure] <maza> viva pero
-[23:56:31] [Server thread/INFO]: [Not Secure] <maza> peru
+[00:14:31] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=37, y=62, z=-12} ji{x=-19, y=62, z=50}
+[00:14:31] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=37, y=62, z=-12} ji{x=-19, y=62, z=51}
+[00:14:34] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=37, y=62, z=-12} ji{x=-20, y=62, z=50}
+[00:14:47] [Server thread/INFO]: maza lost connection: Disconnected
+[00:14:47] [Server thread/INFO]: maza left the game
+[00:14:55] [Server thread/INFO]: maza[/127.124.82.66:57545] logged in with entity id 7219 at (-18.814932579256748, 63.0, 52.73920937982245)
+[00:14:55] [Server thread/INFO]: maza joined the game
+[00:15:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-19, y=62, z=52}
+[00:15:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-18, y=62, z=52}
+[00:15:47] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-19, y=62, z=54}
+[00:15:47] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-20, y=62, z=54}
