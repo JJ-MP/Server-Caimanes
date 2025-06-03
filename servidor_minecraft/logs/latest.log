@@ -35,3 +35,32 @@
 [00:34:02] [Server thread/INFO]: [Not Secure] <maza> dale
 [00:36:28] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
 [00:38:19] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
+[00:46:57] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=74} ji{x=-16, y=37, z=74}
+[00:46:59] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=74} ji{x=-17, y=38, z=73}
+[00:47:00] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=74} ji{x=-16, y=37, z=73}
+[00:47:01] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=74} ji{x=-16, y=37, z=73}
+[00:47:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=74} ji{x=-16, y=36, z=74}
+[00:47:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=74} ji{x=-16, y=36, z=73}
+[00:47:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=72} ji{x=-16, y=37, z=72}
+[00:47:07] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=38, z=72} ji{x=-16, y=38, z=73}
+[00:47:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=76} ji{x=-16, y=37, z=76}
+[00:47:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=76} ji{x=-16, y=37, z=76}
+[00:47:15] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=35, z=73} ji{x=-16, y=35, z=73}
+[00:47:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=35, z=73} ji{x=-16, y=35, z=73}
+[00:47:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=35, z=73} ji{x=-16, y=36, z=73}
+[00:47:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=35, z=73} ji{x=-16, y=38, z=73}
+[00:47:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=35, z=73} ji{x=-16, y=37, z=73}
+[00:47:49] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=35, z=73} ji{x=-16, y=38, z=72}
+[00:47:56] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-13, y=37, z=72} ji{x=-16, y=38, z=73}
+[00:48:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=34, z=69} ji{x=-16, y=34, z=69}
+[00:48:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=34, z=69} ji{x=-17, y=35, z=69}
+[00:48:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=34, z=69} ji{x=-16, y=34, z=69}
+[00:48:09] [Server thread/INFO]: maza lost connection: Disconnected
+[00:48:09] [Server thread/INFO]: maza left the game
+[00:48:17] [Server thread/INFO]: maza[/127.124.82.66:44843] logged in with entity id 17382 at (-13.844000298921149, 34.0, 69.6083954052925)
+[00:48:17] [Server thread/INFO]: maza joined the game
+[00:48:25] [Server thread/INFO]: [Not Secure] <J_Mafioso> q le paso
+[00:48:36] [Server thread/INFO]: [Not Secure] <maza> mano tengoesta jdoa
+[00:48:40] [Server thread/INFO]: [Not Secure] <maza> bugiado
+[00:48:40] [Server thread/INFO]: [Not Secure] <J_Mafioso> q
+[00:48:44] [Server thread/INFO]: [Not Secure] <J_Mafioso> nooo
