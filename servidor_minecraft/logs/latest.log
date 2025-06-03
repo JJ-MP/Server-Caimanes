@@ -64,3 +64,29 @@
 [00:48:40] [Server thread/INFO]: [Not Secure] <maza> bugiado
 [00:48:40] [Server thread/INFO]: [Not Secure] <J_Mafioso> q
 [00:48:44] [Server thread/INFO]: [Not Secure] <J_Mafioso> nooo
+[00:48:46] [Server thread/INFO]: [Not Secure] <J_Mafioso> porq
+[00:48:50] [Server thread/INFO]: [Not Secure] <maza> no quiere romper bloques
+[00:48:55] [Server thread/INFO]: [Not Secure] <J_Mafioso> enserio
+[00:48:56] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-17, y=35, z=69}
+[00:49:05] [Server thread/INFO]: [Not Secure] <maza> ya entro
+[00:49:07] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-16, y=34, z=69}
+[00:49:10] [Server thread/INFO]: [Not Secure] <J_Mafioso> a ok
+[00:49:10] [Server thread/INFO]: maza lost connection: Disconnected
+[00:49:10] [Server thread/INFO]: maza left the game
+[00:53:09] [Server thread/INFO]: maza[/127.124.82.66:46651] logged in with entity id 18272 at (-14.699999988079071, 34.0, 69.30000001192093)
+[00:53:09] [Server thread/INFO]: maza joined the game
+[00:53:15] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-16, y=34, z=69}
+[00:53:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=33, z=69} ji{x=-16, y=34, z=69}
+[00:53:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=33, z=69} ji{x=-16, y=33, z=69}
+[00:53:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=33, z=69} ji{x=-16, y=33, z=69}
+[00:53:48] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=33, z=69} ji{x=-16, y=33, z=69}
+[00:54:35] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=30, z=78} ji{x=-16, y=30, z=78}
+[00:55:34] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-26, y=21, z=81} ji{x=-27, y=21, z=80}
+[00:55:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-26, y=21, z=81} ji{x=-27, y=21, z=80}
+[00:55:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-28, y=21, z=81} ji{x=-29, y=21, z=80}
+[00:55:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-28, y=21, z=81} ji{x=-29, y=20, z=80}
+[00:55:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-29, y=20, z=81} ji{x=-30, y=20, z=80}
+[00:55:50] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-29, y=21, z=81} ji{x=-29, y=20, z=80}
+[00:55:50] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-29, y=21, z=81} ji{x=-29, y=21, z=80}
+[00:56:31] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-29, y=21, z=81} ji{x=-29, y=21, z=80}
+[00:56:31] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-29, y=21, z=81} ji{x=-28, y=21, z=80}
