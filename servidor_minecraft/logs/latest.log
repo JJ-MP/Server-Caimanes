@@ -1,39 +1,25 @@
-[01:02:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:02:29] [ServerMain/INFO]: Loaded 1370 recipes
-[01:02:29] [ServerMain/INFO]: Loaded 1481 advancements
-[01:02:29] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[01:02:29] [Server thread/INFO]: Loading properties
-[01:02:29] [Server thread/INFO]: Default game type: SURVIVAL
-[01:02:29] [Server thread/INFO]: Generating keypair
-[01:02:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:02:29] [Server thread/INFO]: Using epoll channel type
-[01:02:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:02:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:02:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:02:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:02:29] [Server thread/INFO]: Preparing level "world"
-[01:02:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:02:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:02:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:02:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:02:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:02:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:02:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:02:33] [Server thread/INFO]: Time elapsed: 2798 ms
-[01:02:33] [Server thread/INFO]: Done (3.513s)! For help, type "help"
-[01:03:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:05:12] [Server thread/INFO]: maza[/127.124.82.66:43915] logged in with entity id 202 at (65.21115638360624, 93.0, -59.70095455463533)
-[01:05:12] [Server thread/INFO]: maza joined the game
-[01:13:43] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-6, y=62, z=44} ji{x=-18, y=62, z=63}
-[01:13:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-6, y=62, z=44} ji{x=-18, y=63, z=63}
-[01:13:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-6, y=62, z=44} ji{x=-17, y=62, z=61}
-[01:13:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-6, y=62, z=44} ji{x=-17, y=62, z=61}
-[01:13:47] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-6, y=62, z=44} ji{x=-18, y=62, z=62}
-[01:13:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-6, y=62, z=44} ji{x=-17, y=63, z=63}
-[01:14:01] [Server thread/INFO]: maza lost connection: Disconnected
-[01:14:01] [Server thread/INFO]: maza left the game
-[01:15:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:26:51] [Server thread/INFO]: maza[/127.124.82.66:54395] logged in with entity id 2571 at (-16.696942923385723, 63.0, 62.4493308708833)
-[01:26:51] [Server thread/INFO]: maza joined the game
-[01:27:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-17, y=62, z=63}
-[01:27:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-17, y=64, z=63}
+[23:08:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:08:45] [ServerMain/INFO]: Loaded 1370 recipes
+[23:08:45] [ServerMain/INFO]: Loaded 1481 advancements
+[23:08:45] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[23:08:45] [Server thread/INFO]: Loading properties
+[23:08:45] [Server thread/INFO]: Default game type: SURVIVAL
+[23:08:45] [Server thread/INFO]: Generating keypair
+[23:08:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:08:45] [Server thread/INFO]: Using epoll channel type
+[23:08:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:08:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:08:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:08:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:08:45] [Server thread/INFO]: Preparing level "world"
+[23:08:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:08:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:08:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:08:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:08:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:08:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:08:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:08:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:08:49] [Server thread/INFO]: Time elapsed: 3322 ms
+[23:08:49] [Server thread/INFO]: Done (3.598s)! For help, type "help"
+[23:09:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
