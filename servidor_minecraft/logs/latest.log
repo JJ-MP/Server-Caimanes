@@ -102,3 +102,6 @@
 [23:37:57] [Server thread/INFO]: [Not Secure] <J_Mafioso> se desbugueo ya
 [23:38:01] [Server thread/INFO]: [Not Secure] <J_Mafioso> a vengo
 [23:38:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=62, z=62} ji{x=-18, y=64, z=63}
+[23:39:10] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=62, z=62} ji{x=-17, y=63, z=63}
+[23:39:52] [Server thread/INFO]: maza lost connection: Disconnected
+[23:39:52] [Server thread/INFO]: maza left the game
