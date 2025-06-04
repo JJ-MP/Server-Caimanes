@@ -1,197 +1,26 @@
-[00:14:31] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=37, y=62, z=-12} ji{x=-19, y=62, z=50}
-[00:14:31] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=37, y=62, z=-12} ji{x=-19, y=62, z=51}
-[00:14:34] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=37, y=62, z=-12} ji{x=-20, y=62, z=50}
-[00:14:47] [Server thread/INFO]: maza lost connection: Disconnected
-[00:14:47] [Server thread/INFO]: maza left the game
-[00:14:55] [Server thread/INFO]: maza[/127.124.82.66:57545] logged in with entity id 7219 at (-18.814932579256748, 63.0, 52.73920937982245)
-[00:14:55] [Server thread/INFO]: maza joined the game
-[00:15:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-19, y=62, z=52}
-[00:15:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-18, y=62, z=52}
-[00:15:47] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-19, y=62, z=54}
-[00:15:47] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-20, y=62, z=54}
-[00:18:50] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-23, y=63, z=27} ji{x=-32, y=62, z=50}
-[00:19:22] [Server thread/INFO]: J_Mafioso[/127.76.222.120:42111] logged in with entity id 8767 at (70.69999998807907, 111.99270865554114, -68.69999998807907)
-[00:19:22] [Server thread/INFO]: J_Mafioso joined the game
-[00:19:38] [Server thread/INFO]: [J_Mafioso: The difficulty has been set to Hard]
-[00:19:51] [Server thread/INFO]: [Not Secure] <J_Mafioso> ya la dificultadad en dificil mano
-[00:20:06] [Server thread/INFO]: [Not Secure] <maza> si mano
-[00:20:14] [Server thread/INFO]: [Not Secure] <J_Mafioso> viva peru
-[00:20:38] [Server thread/INFO]: [Not Secure] <J_Mafioso> 🐊🐊🐊🐊
-[00:20:58] [Server thread/INFO]: [Not Secure] <J_Mafioso> wh
-[00:21:10] [Server thread/INFO]: [Not Secure] <maza> q apaso
-[00:21:12] [Server thread/INFO]: [Not Secure] <maza> te
-[00:21:23] [Server thread/INFO]: [Not Secure] <J_Mafioso> me equivoque de lugar para escribir
-[00:31:57] [Server thread/INFO]: [J_Mafioso: Set own game mode to Spectator Mode]
-[00:32:41] [Server thread/INFO]: [Not Secure] <J_Mafioso> q hace mano
-[00:32:55] [Server thread/INFO]: [Not Secure] <maza> PATANDOME CON ZOMBIS
-[00:33:14] [Server thread/INFO]: [Not Secure] <J_Mafioso> para tener exp?
-[00:33:19] [Server thread/INFO]: [Not Secure] <maza> si mano
-[00:33:25] [Server thread/INFO]: [Not Secure] <J_Mafioso> aa okok
-[00:33:29] [Server thread/INFO]: [Not Secure] <maza> mano
-[00:33:35] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[00:33:36] [Server thread/INFO]: [Not Secure] <J_Mafioso> q
-[00:33:42] [Server thread/INFO]: [Not Secure] <maza> mesesito exp
-[00:33:53] [Server thread/INFO]: [Not Secure] <J_Mafioso> ya casi termino la granja
-[00:34:02] [Server thread/INFO]: [Not Secure] <maza> dale
-[00:36:28] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[00:38:19] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[00:46:57] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=74} ji{x=-16, y=37, z=74}
-[00:46:59] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=74} ji{x=-17, y=38, z=73}
-[00:47:00] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=74} ji{x=-16, y=37, z=73}
-[00:47:01] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=74} ji{x=-16, y=37, z=73}
-[00:47:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=74} ji{x=-16, y=36, z=74}
-[00:47:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=74} ji{x=-16, y=36, z=73}
-[00:47:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=72} ji{x=-16, y=37, z=72}
-[00:47:07] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=38, z=72} ji{x=-16, y=38, z=73}
-[00:47:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=76} ji{x=-16, y=37, z=76}
-[00:47:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=37, z=76} ji{x=-16, y=37, z=76}
-[00:47:15] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=35, z=73} ji{x=-16, y=35, z=73}
-[00:47:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=35, z=73} ji{x=-16, y=35, z=73}
-[00:47:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=35, z=73} ji{x=-16, y=36, z=73}
-[00:47:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=35, z=73} ji{x=-16, y=38, z=73}
-[00:47:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=35, z=73} ji{x=-16, y=37, z=73}
-[00:47:49] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=35, z=73} ji{x=-16, y=38, z=72}
-[00:47:56] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-13, y=37, z=72} ji{x=-16, y=38, z=73}
-[00:48:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=34, z=69} ji{x=-16, y=34, z=69}
-[00:48:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=34, z=69} ji{x=-17, y=35, z=69}
-[00:48:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=34, z=69} ji{x=-16, y=34, z=69}
-[00:48:09] [Server thread/INFO]: maza lost connection: Disconnected
-[00:48:09] [Server thread/INFO]: maza left the game
-[00:48:17] [Server thread/INFO]: maza[/127.124.82.66:44843] logged in with entity id 17382 at (-13.844000298921149, 34.0, 69.6083954052925)
-[00:48:17] [Server thread/INFO]: maza joined the game
-[00:48:25] [Server thread/INFO]: [Not Secure] <J_Mafioso> q le paso
-[00:48:36] [Server thread/INFO]: [Not Secure] <maza> mano tengoesta jdoa
-[00:48:40] [Server thread/INFO]: [Not Secure] <maza> bugiado
-[00:48:40] [Server thread/INFO]: [Not Secure] <J_Mafioso> q
-[00:48:44] [Server thread/INFO]: [Not Secure] <J_Mafioso> nooo
-[00:48:46] [Server thread/INFO]: [Not Secure] <J_Mafioso> porq
-[00:48:50] [Server thread/INFO]: [Not Secure] <maza> no quiere romper bloques
-[00:48:55] [Server thread/INFO]: [Not Secure] <J_Mafioso> enserio
-[00:48:56] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-17, y=35, z=69}
-[00:49:05] [Server thread/INFO]: [Not Secure] <maza> ya entro
-[00:49:07] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-16, y=34, z=69}
-[00:49:10] [Server thread/INFO]: [Not Secure] <J_Mafioso> a ok
-[00:49:10] [Server thread/INFO]: maza lost connection: Disconnected
-[00:49:10] [Server thread/INFO]: maza left the game
-[00:53:09] [Server thread/INFO]: maza[/127.124.82.66:46651] logged in with entity id 18272 at (-14.699999988079071, 34.0, 69.30000001192093)
-[00:53:09] [Server thread/INFO]: maza joined the game
-[00:53:15] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-16, y=34, z=69}
-[00:53:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=33, z=69} ji{x=-16, y=34, z=69}
-[00:53:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=33, z=69} ji{x=-16, y=33, z=69}
-[00:53:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=33, z=69} ji{x=-16, y=33, z=69}
-[00:53:48] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=33, z=69} ji{x=-16, y=33, z=69}
-[00:54:35] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=30, z=78} ji{x=-16, y=30, z=78}
-[00:55:34] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-26, y=21, z=81} ji{x=-27, y=21, z=80}
-[00:55:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-26, y=21, z=81} ji{x=-27, y=21, z=80}
-[00:55:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-28, y=21, z=81} ji{x=-29, y=21, z=80}
-[00:55:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-28, y=21, z=81} ji{x=-29, y=20, z=80}
-[00:55:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-29, y=20, z=81} ji{x=-30, y=20, z=80}
-[00:55:50] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-29, y=21, z=81} ji{x=-29, y=20, z=80}
-[00:55:50] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-29, y=21, z=81} ji{x=-29, y=21, z=80}
-[00:56:31] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-29, y=21, z=81} ji{x=-29, y=21, z=80}
-[00:56:31] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-29, y=21, z=81} ji{x=-28, y=21, z=80}
-[01:01:30] [Server thread/INFO]: [Not Secure] <maza> q hace mano
-[01:01:36] [Server thread/INFO]: [Not Secure] <J_Mafioso> la granja esta de mierda
-[01:01:49] [Server thread/INFO]: [Not Secure] <J_Mafioso> me equivoque en los calculos y me toca hacerlo todo de nuevo
-[01:01:49] [Server thread/INFO]: [Not Secure] <maza> no la a terminado
-[01:01:54] [Server thread/INFO]: [Not Secure] <J_Mafioso> no
-[01:02:30] [Server thread/INFO]: [Not Secure] <J_Mafioso> q hace
-[01:05:08] [Server thread/WARN]: maza moved wrongly!
-[01:05:17] [Server thread/WARN]: maza moved wrongly!
-[01:16:51] [Server thread/INFO]: [Not Secure] <J_Mafioso> mano
-[01:16:55] [Server thread/INFO]: [Not Secure] <maza> dime mano
-[01:16:59] [Server thread/INFO]: [Not Secure] <J_Mafioso> donde anda
-[01:17:03] [Server thread/INFO]: [Not Secure] <maza> minandow
-[01:17:08] [Server thread/INFO]: [Not Secure] <J_Mafioso> como?
-[01:17:11] [Server thread/INFO]: [Not Secure] <J_Mafioso> aa yaya
-[01:17:13] [Server thread/INFO]: [Not Secure] <J_Mafioso> listo
-[01:17:15] [Server thread/INFO]: [Not Secure] <J_Mafioso> nice
-[01:17:24] [Server thread/INFO]: [Not Secure] <maza> voy con muchas cosas
-[01:17:31] [Server thread/INFO]: [Not Secure] <J_Mafioso> q tanto
-[01:17:40] [Server thread/INFO]: [Not Secure] <maza> 2 stas de diamantes
-[01:17:45] [Server thread/INFO]: [Not Secure] <J_Mafioso> demonios
-[01:17:49] [Server thread/INFO]: [Not Secure] <maza> y como 6 de hierro
-[01:17:59] [Server thread/INFO]: [Not Secure] <J_Mafioso> usted fue minero en otra vida
-[01:22:25] [Server thread/INFO]: maza fell from a high place
-[01:22:28] [Server thread/INFO]: [Not Secure] <J_Mafioso> nou
-[01:22:46] [Server thread/INFO]: [Not Secure] <maza> tw
-[01:23:04] [Server thread/INFO]: [Not Secure] <J_Mafioso> murio lejos
-[01:23:32] [Server thread/INFO]: maza fell from a high place
-[01:23:38] [Server thread/INFO]: [Not Secure] <J_Mafioso> XD
-[01:24:54] [Server thread/INFO]: maza was shot by Skeleton
-[01:25:35] [Server thread/INFO]: maza was shot by Skeleton
-[01:26:45] [Server thread/INFO]: maza was shot by Skeleton
-[01:27:26] [Server thread/INFO]: maza was slain by Zombie
-[01:28:37] [Server thread/INFO]: maza was blown up by Creeper
-[01:28:40] [Server thread/INFO]: [Not Secure] <J_Mafioso> huy
-[01:29:08] [Server thread/INFO]: maza was shot by Skeleton
-[01:29:18] [Server thread/INFO]: [Not Secure] <J_Mafioso> qu ta haciendo
-[01:29:30] [Server thread/INFO]: [Not Secure] <maza> mrk ya se donde estan las cosas ayudeme
-[01:29:35] [Server thread/INFO]: [Not Secure] <J_Mafioso> xd
-[01:29:38] [Server thread/INFO]: [Not Secure] <maza> per mrk un zomno
-[01:29:50] [Server thread/INFO]: [Not Secure] <J_Mafioso> voy
-[01:29:50] [Server thread/INFO]: [Not Secure] <maza> agarro todo lo q yo tengo de diamantes
-[01:29:54] [Server thread/INFO]: [Not Secure] <J_Mafioso> voy
-[01:30:02] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[01:30:33] [Server thread/INFO]: [Not Secure] <J_Mafioso> donde esta
-[01:30:41] [Server thread/INFO]: [Not Secure] <maza> en la casa
-[01:31:59] [Server thread/INFO]: maza was slain by Zombie
-[01:32:17] [Server thread/INFO]: maza fell from a high place
-[01:32:24] [Server thread/INFO]: maza has made the advancement [Hot Stuff]
-[01:33:25] [Server thread/INFO]: [Not Secure] <J_Mafioso> atras
-[01:33:34] [Server thread/INFO]: maza was slain by Zombie
-[01:33:47] [Server thread/INFO]: [Not Secure] <J_Mafioso> comida
-[01:33:48] [Server thread/INFO]: [Not Secure] <J_Mafioso> tireme
-[01:33:53] [Server thread/INFO]: [Not Secure] <J_Mafioso> tireme
-[01:33:55] [Server thread/INFO]: [Not Secure] <J_Mafioso> comida
-[01:34:30] [Server thread/INFO]: [Not Secure] <maza> yaa
-[01:34:50] [Server thread/INFO]: J_Mafioso was slain by Zombie
-[01:34:51] [Server thread/INFO]: maza was slain by Zombie
-[01:35:25] [Server thread/INFO]: maza was shot by Skeleton
-[01:36:28] [Server thread/INFO]: maza has made the advancement [Take Aim]
-[01:36:48] [Server thread/INFO]: [Not Secure] <maza> mano
-[01:36:50] [Server thread/INFO]: [Not Secure] <J_Mafioso> a
-[01:36:53] [Server thread/INFO]: [Not Secure] <maza> todo el diamante se perdio
-[01:36:58] [Server thread/INFO]: [Not Secure] <J_Mafioso> como
-[01:37:01] [Server thread/INFO]: [Not Secure] <maza> sest
-[01:37:14] [Server thread/INFO]: [Not Secure] <J_Mafioso> yo no tengo
-[01:37:15] [Server thread/INFO]: [Not Secure] <J_Mafioso> nada
-[01:37:18] [Server thread/INFO]: [Not Secure] <maza> gp
-[01:37:22] [Server thread/INFO]: [Not Secure] <J_Mafioso> coño
-[01:37:37] [Server thread/INFO]: [Not Secure] <maza> mano yo tenia un pico
-[01:37:46] [Server thread/INFO]: [Not Secure] <maza> con eficienciencia
-[01:37:56] [Server thread/INFO]: [Not Secure] <maza> y imrropivilidad
-[01:38:07] [Server thread/INFO]: [Not Secure] <J_Mafioso> jueputua mano
-[01:38:18] [Server thread/INFO]: [Not Secure] <J_Mafioso> yo lo tengo igual pero con toque de seda
-[01:38:27] [Server thread/INFO]: [Not Secure] <J_Mafioso> 30 me costo
-[01:39:22] [Server thread/INFO]: [Not Secure] <J_Mafioso> mano dame pan
-[01:39:39] [Server thread/INFO]: [Not Secure] <maza> mano todo el diamante q se perdio gp
-[01:39:44] [Server thread/INFO]: [Not Secure] <J_Mafioso> sisa
-[01:39:47] [Server thread/INFO]: [Not Secure] <J_Mafioso> que mierda
-[01:40:17] [Server thread/INFO]: [Not Secure] <J_Mafioso> bloques
-[01:41:22] [Server thread/INFO]: maza lost connection: Disconnected
-[01:41:22] [Server thread/INFO]: maza left the game
-[01:41:45] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[02:17:53] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[02:19:07] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[02:28:00] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[02:28:59] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[02:37:09] [Server thread/WARN]: J_Mafioso moved too quickly! 10.029771599134975,0.0,-1.0480205668198437
-[02:39:26] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[02:40:17] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[02:41:57] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[02:44:11] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[02:44:53] [Server thread/WARN]: Player J_Mafioso just tried to change non-editable sign
-[02:44:55] [Server thread/WARN]: Player J_Mafioso just tried to change non-editable sign
-[02:46:53] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[02:51:28] [Server thread/INFO]: J_Mafioso lost connection: Disconnected
-[02:51:28] [Server thread/INFO]: J_Mafioso left the game
-[02:52:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:54:54] [Server thread/INFO]: maza[/127.124.82.66:52375] logged in with entity id 57848 at (-1.0382813694619535, 63.5625, 39.97829532129137)
-[02:54:54] [Server thread/INFO]: maza joined the game
-[02:57:09] [Server thread/INFO]: maza lost connection: Timed out
-[02:57:09] [Server thread/INFO]: maza left the game
-[02:57:09] [Server thread/WARN]: handleDisconnection() called twice
-[02:57:28] [Server thread/INFO]: maza[/127.124.82.66:55187] logged in with entity id 59199 at (74.58647033688887, 87.0, -76.52580180007485)
-[02:57:28] [Server thread/INFO]: maza joined the game
-[02:57:57] [Server thread/WARN]: Player maza just tried to change non-editable sign
+[01:02:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:02:29] [ServerMain/INFO]: Loaded 1370 recipes
+[01:02:29] [ServerMain/INFO]: Loaded 1481 advancements
+[01:02:29] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[01:02:29] [Server thread/INFO]: Loading properties
+[01:02:29] [Server thread/INFO]: Default game type: SURVIVAL
+[01:02:29] [Server thread/INFO]: Generating keypair
+[01:02:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:02:29] [Server thread/INFO]: Using epoll channel type
+[01:02:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:02:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:02:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:02:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:02:29] [Server thread/INFO]: Preparing level "world"
+[01:02:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:02:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:02:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:02:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:02:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:02:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:02:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:02:33] [Server thread/INFO]: Time elapsed: 2798 ms
+[01:02:33] [Server thread/INFO]: Done (3.513s)! For help, type "help"
+[01:03:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:05:12] [Server thread/INFO]: maza[/127.124.82.66:43915] logged in with entity id 202 at (65.21115638360624, 93.0, -59.70095455463533)
+[01:05:12] [Server thread/INFO]: maza joined the game
