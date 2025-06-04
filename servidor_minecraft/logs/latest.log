@@ -33,3 +33,7 @@
 [01:14:01] [Server thread/INFO]: maza lost connection: Disconnected
 [01:14:01] [Server thread/INFO]: maza left the game
 [01:15:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:26:51] [Server thread/INFO]: maza[/127.124.82.66:54395] logged in with entity id 2571 at (-16.696942923385723, 63.0, 62.4493308708833)
+[01:26:51] [Server thread/INFO]: maza joined the game
+[01:27:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-17, y=62, z=63}
+[01:27:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-17, y=64, z=63}
