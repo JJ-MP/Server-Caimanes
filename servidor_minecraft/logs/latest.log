@@ -31,3 +31,15 @@
 [23:16:04] [Server thread/INFO]: [Not Secure] <Chimuel0x> le han metido visio a esta vaina o creativo xd
 [23:16:30] [Server thread/INFO]: Chimuel0x has made the advancement [Monster Hunter]
 [23:20:07] [Server thread/INFO]: Chimuel0x has made the advancement [A Seedy Place]
+[23:25:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-12, y=68, z=73} ji{x=-30, y=62, z=57}
+[23:25:07] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-12, y=68, z=73} ji{x=-29, y=62, z=57}
+[23:25:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-12, y=68, z=73} ji{x=-30, y=62, z=57}
+[23:25:09] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-12, y=68, z=73} ji{x=-30, y=62, z=56}
+[23:25:10] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-12, y=68, z=73} ji{x=-30, y=62, z=56}
+[23:25:10] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-12, y=68, z=73} ji{x=-29, y=62, z=56}
+[23:25:48] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-12, y=68, z=73} ji{x=-28, y=62, z=57}
+[23:37:43] [Server thread/INFO]: Chimuel0x has made the advancement [Acquire Hardware]
+[23:40:42] [Server thread/INFO]: Chimuel0x lost connection: Timed out
+[23:40:42] [Server thread/INFO]: Chimuel0x left the game
+[23:40:42] [Server thread/WARN]: handleDisconnection() called twice
+[23:41:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
