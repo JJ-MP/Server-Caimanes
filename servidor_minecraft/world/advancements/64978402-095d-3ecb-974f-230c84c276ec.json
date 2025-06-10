@@ -543,6 +543,7 @@
       "minecraft:spider": "2025-05-29 01:50:56 +0000",
       "minecraft:zombie": "2025-05-27 23:03:38 +0000",
       "minecraft:creeper": "2025-05-29 02:06:36 +0000",
+      "minecraft:slime": "2025-06-10 21:53:11 +0000",
       "minecraft:hoglin": "2025-05-27 23:11:19 +0000"
     },
     "done": false
@@ -2477,6 +2478,30 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-06-10 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-10 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-10 21:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-10 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-10 21:53:11 +0000"
     },
     "done": true
   },
