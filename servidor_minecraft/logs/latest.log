@@ -43,3 +43,13 @@
 [23:40:42] [Server thread/INFO]: Chimuel0x left the game
 [23:40:42] [Server thread/WARN]: handleDisconnection() called twice
 [23:41:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:46:21] [Server thread/INFO]: Chimuel0x[/127.41.194.141:45805] logged in with entity id 11172 at (-131.69999998807907, -16.0, 152.60136391888068)
+[23:46:21] [Server thread/INFO]: Chimuel0x joined the game
+[23:46:50] [Server thread/INFO]: Chimuel0x has made the advancement [Isn't It Iron Pick]
+[23:47:24] [Server thread/INFO]: Chimuel0x has made the advancement [Diamonds!]
+[23:49:34] [Server thread/WARN]: Chimuel0x moved too quickly! 10.12546228158692,-1.7531999805212015,0.8739402636805949
+[23:49:49] [Server thread/INFO]: Chimuel0x has made the advancement [Take Aim]
+[23:54:21] [Server thread/INFO]: Chimuel0x lost connection: Timed out
+[23:54:21] [Server thread/INFO]: Chimuel0x left the game
+[23:54:36] [Server thread/INFO]: Chimuel0x[/127.41.194.141:59307] logged in with entity id 13857 at (-124.15450982187323, -11.0, 182.37026489560307)
+[23:54:36] [Server thread/INFO]: Chimuel0x joined the game
