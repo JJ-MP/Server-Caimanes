@@ -2474,5 +2474,11 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-10 21:15:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
