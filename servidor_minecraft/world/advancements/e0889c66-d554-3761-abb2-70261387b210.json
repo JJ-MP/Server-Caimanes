@@ -258,6 +258,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-12 01:20:32 +0000",
       "minecraft:phantom": "2025-06-12 01:22:57 +0000",
+      "minecraft:spider": "2025-06-12 01:24:19 +0000",
       "minecraft:zombie": "2025-06-12 01:02:00 +0000"
     },
     "done": false
@@ -712,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-12 01:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-06-12 01:20:24 +0000"
@@ -733,6 +740,24 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-06-12 01:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-12 01:33:18 +0000"
     },
     "done": true
   },
