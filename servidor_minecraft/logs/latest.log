@@ -30,3 +30,20 @@
 [14:57:43] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=5, y=51, z=62} ji{x=-11, y=51, z=62}
 [15:46:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-5, y=29, z=-2} ji{x=-1, y=29, z=-5}
 [15:47:09] [Server thread/INFO]: J_Mafioso has made the advancement [Hidden in the Depths]
+[15:48:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-16, y=6, z=21} ji{x=-17, y=4, z=21}
+[15:49:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-42, y=13, z=25} ji{x=8, y=18, z=-3}
+[15:49:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-42, y=13, z=25} ji{x=8, y=18, z=-3}
+[15:49:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-42, y=13, z=25} ji{x=8, y=18, z=-3}
+[15:49:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-42, y=13, z=25} ji{x=8, y=18, z=-3}
+[15:49:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-42, y=13, z=25} ji{x=8, y=18, z=-3}
+[15:49:24] [Server thread/INFO]: J_Mafioso lost connection: Disconnected
+[15:49:24] [Server thread/INFO]: J_Mafioso left the game
+[15:50:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:51:38] [Server thread/INFO]: J_Mafioso[/127.76.222.120:43419] logged in with entity id 21483 at (7.300000011920929, 19.0, -1.014869374072601)
+[15:51:38] [Server thread/INFO]: J_Mafioso joined the game
+[15:51:42] [Server thread/INFO]: J_Mafioso tried to swim in lava
+[15:52:01] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
+[15:54:41] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
+[15:56:21] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
+[15:56:59] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
+[15:57:15] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
