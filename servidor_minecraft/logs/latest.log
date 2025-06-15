@@ -27,3 +27,4 @@
 [14:17:16] [Server thread/INFO]: J_Mafioso[/127.76.222.120:47065] logged in with entity id 213 at (-1.5, 63.5625, 39.5)
 [14:17:16] [Server thread/INFO]: J_Mafioso joined the game
 [14:46:50] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4, y=55, z=58} ji{x=-4, y=56, z=59}
+[14:57:43] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=5, y=51, z=62} ji{x=-11, y=51, z=62}
