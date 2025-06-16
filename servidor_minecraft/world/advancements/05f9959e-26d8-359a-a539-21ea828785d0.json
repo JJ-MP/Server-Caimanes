@@ -7,16 +7,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-16 02:17:07 +0000",
       "minecraft:beach": "2025-06-10 23:26:40 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-16 01:30:51 +0000",
       "minecraft:forest": "2025-06-10 23:12:41 +0000",
       "minecraft:taiga": "2025-06-12 01:30:47 +0000",
       "minecraft:river": "2025-06-10 23:28:00 +0000",
+      "minecraft:snowy_plains": "2025-06-16 02:02:55 +0000",
+      "minecraft:snowy_taiga": "2025-06-16 02:01:30 +0000",
+      "minecraft:ice_spikes": "2025-06-16 02:17:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-12 01:42:32 +0000",
       "minecraft:frozen_ocean": "2025-06-16 01:43:15 +0000",
       "minecraft:frozen_river": "2025-06-16 01:37:39 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-16 02:00:18 +0000",
       "minecraft:ocean": "2025-06-10 23:26:51 +0000",
       "minecraft:birch_forest": "2025-06-12 01:42:22 +0000",
+      "minecraft:windswept_hills": "2025-06-16 02:03:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-16 01:30:08 +0000",
       "minecraft:snowy_beach": "2025-06-16 01:39:51 +0000",
       "minecraft:plains": "2025-06-10 23:12:54 +0000"
@@ -1921,6 +1927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-16 02:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-06-16 01:38:24 +0000"
@@ -1957,9 +1969,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-16 02:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "minecraft:black": "2025-06-16 01:33:43 +0000"
+      "minecraft:black": "2025-06-16 01:33:43 +0000",
+      "minecraft:ashen": "2025-06-16 02:04:40 +0000"
     },
     "done": false
   },
@@ -1987,6 +2006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-16 02:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-16 01:48:33 +0000"
@@ -2005,9 +2030,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-16 02:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-06-16 01:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-16 02:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-16 02:03:33 +0000"
     },
     "done": true
   },
@@ -2065,9 +2108,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-16 02:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 01:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-16 02:03:33 +0000"
     },
     "done": true
   },
@@ -2080,6 +2135,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-06-16 01:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-16 02:03:33 +0000"
     },
     "done": true
   },
