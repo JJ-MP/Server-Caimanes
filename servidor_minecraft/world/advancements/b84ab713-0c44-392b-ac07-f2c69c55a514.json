@@ -368,6 +368,7 @@
       "golden_carrot": "2025-06-16 02:13:34 +0000",
       "apple": "2025-05-27 20:11:57 +0000",
       "cooked_chicken": "2025-05-27 20:38:43 +0000",
+      "enchanted_golden_apple": "2025-06-16 02:33:41 +0000",
       "potato": "2025-06-16 01:41:48 +0000",
       "cooked_cod": "2025-05-27 23:47:39 +0000",
       "cod": "2025-05-29 02:09:10 +0000",
@@ -3656,6 +3657,12 @@
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-06-16 01:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-06-16 02:38:35 +0000"
     },
     "done": true
   },

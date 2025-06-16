@@ -425,6 +425,8 @@
       "minecraft:piglin": "2025-06-11 03:10:41 +0000",
       "minecraft:phantom": "2025-06-12 01:21:56 +0000",
       "minecraft:enderman": "2025-06-12 01:14:49 +0000",
+      "minecraft:stray": "2025-06-16 02:31:47 +0000",
+      "minecraft:witch": "2025-06-16 02:33:19 +0000",
       "minecraft:spider": "2025-06-11 00:34:34 +0000",
       "minecraft:zombie": "2025-06-10 23:28:53 +0000",
       "minecraft:creeper": "2025-06-10 23:16:30 +0000",
@@ -484,6 +486,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-06-10 23:24:22 +0000",
+      "rabbit": "2025-06-16 02:21:29 +0000",
       "porkchop": "2025-06-12 00:33:51 +0000"
     },
     "done": false
@@ -2024,6 +2027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-16 02:21:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/pale_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 01:16:54 +0000"
@@ -2060,6 +2069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-16 02:21:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 01:16:54 +0000"
@@ -2069,6 +2084,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 01:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-16 02:21:23 +0000"
     },
     "done": true
   },
@@ -2087,6 +2108,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 01:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-16 02:33:20 +0000"
     },
     "done": true
   },
@@ -2111,6 +2138,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-06-16 02:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-16 02:33:20 +0000"
     },
     "done": true
   },
