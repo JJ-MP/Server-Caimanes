@@ -1,53 +1,40 @@
-[14:16:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:16:31] [ServerMain/INFO]: Loaded 1370 recipes
-[14:16:31] [ServerMain/INFO]: Loaded 1481 advancements
-[14:16:31] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[14:16:31] [Server thread/INFO]: Loading properties
-[14:16:31] [Server thread/INFO]: Default game type: SURVIVAL
-[14:16:31] [Server thread/INFO]: Generating keypair
-[14:16:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:16:32] [Server thread/INFO]: Using epoll channel type
-[14:16:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:16:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:16:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:16:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:16:32] [Server thread/INFO]: Preparing level "world"
-[14:16:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:16:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:16:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:16:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:16:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:16:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:16:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:16:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:16:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:16:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:16:36] [Server thread/INFO]: Time elapsed: 4403 ms
-[14:16:36] [Server thread/INFO]: Done (4.816s)! For help, type "help"
-[14:17:16] [Server thread/INFO]: J_Mafioso[/127.76.222.120:47065] logged in with entity id 213 at (-1.5, 63.5625, 39.5)
-[14:17:16] [Server thread/INFO]: J_Mafioso joined the game
-[14:46:50] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4, y=55, z=58} ji{x=-4, y=56, z=59}
-[14:57:43] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=5, y=51, z=62} ji{x=-11, y=51, z=62}
-[15:46:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-5, y=29, z=-2} ji{x=-1, y=29, z=-5}
-[15:47:09] [Server thread/INFO]: J_Mafioso has made the advancement [Hidden in the Depths]
-[15:48:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-16, y=6, z=21} ji{x=-17, y=4, z=21}
-[15:49:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-42, y=13, z=25} ji{x=8, y=18, z=-3}
-[15:49:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-42, y=13, z=25} ji{x=8, y=18, z=-3}
-[15:49:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-42, y=13, z=25} ji{x=8, y=18, z=-3}
-[15:49:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-42, y=13, z=25} ji{x=8, y=18, z=-3}
-[15:49:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-42, y=13, z=25} ji{x=8, y=18, z=-3}
-[15:49:24] [Server thread/INFO]: J_Mafioso lost connection: Disconnected
-[15:49:24] [Server thread/INFO]: J_Mafioso left the game
-[15:50:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:51:38] [Server thread/INFO]: J_Mafioso[/127.76.222.120:43419] logged in with entity id 21483 at (7.300000011920929, 19.0, -1.014869374072601)
-[15:51:38] [Server thread/INFO]: J_Mafioso joined the game
-[15:51:42] [Server thread/INFO]: J_Mafioso tried to swim in lava
-[15:52:01] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[15:54:41] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[15:56:21] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[15:56:59] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[15:57:15] [Server thread/INFO]: [J_Mafioso: Set own game mode to Creative Mode]
-[15:58:18] [Server thread/INFO]: [J_Mafioso: Set own game mode to Survival Mode]
-[16:04:48] [Server thread/INFO]: J_Mafioso lost connection: Disconnected
-[16:04:48] [Server thread/INFO]: J_Mafioso left the game
-[16:05:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:30:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:30:07] [ServerMain/INFO]: Loaded 1370 recipes
+[00:30:07] [ServerMain/INFO]: Loaded 1481 advancements
+[00:30:07] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[00:30:07] [Server thread/INFO]: Loading properties
+[00:30:07] [Server thread/INFO]: Default game type: SURVIVAL
+[00:30:07] [Server thread/INFO]: Generating keypair
+[00:30:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:30:07] [Server thread/INFO]: Using epoll channel type
+[00:30:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:30:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:30:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:30:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:30:07] [Server thread/INFO]: Preparing level "world"
+[00:30:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:30:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:30:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:30:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:30:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:30:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:30:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:30:10] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[00:30:10] [Server thread/INFO]: Time elapsed: 3097 ms
+[00:30:10] [Server thread/INFO]: Done (3.395s)! For help, type "help"
+[00:31:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:34:27] [Server thread/INFO]: J_Mafioso[/127.76.222.120:41567] logged in with entity id 251 at (12.487234674348933, 63.0, 37.0581651040446)
+[00:34:27] [Server thread/INFO]: J_Mafioso joined the game
+[00:37:00] [Server thread/INFO]: carlosbg[/127.179.156.238:59505] logged in with entity id 1333 at (-36.5, 63.0, 59.5)
+[00:37:00] [Server thread/INFO]: carlosbg joined the game
+[00:37:07] [Server thread/INFO]: [Not Secure] <J_Mafioso> q tal le va
+[00:37:40] [Server thread/INFO]: [Not Secure] <carlosbg> mano entre 25 y 30 fps
+[00:38:01] [Server thread/INFO]: [Not Secure] <J_Mafioso> bueno no está mal
+[00:38:06] [Server thread/INFO]: [Not Secure] <J_Mafioso> pantlla completa?
+[00:38:13] [Server thread/INFO]: [Not Secure] <carlosbg> si mano
+[00:38:18] [Server thread/INFO]: [Not Secure] <J_Mafioso> fino
+[00:38:27] [Server thread/INFO]: [Not Secure] <J_Mafioso> q hacemo
+[00:38:29] [Server thread/INFO]: [Not Secure] <carlosbg> si mano esta jugable
+[00:38:32] [Server thread/INFO]: [Not Secure] <J_Mafioso> sisa
+[00:39:52] [Server thread/INFO]: [Not Secure] <carlosbg> mano esta fino esto
+[00:39:55] [Server thread/INFO]: [Not Secure] <J_Mafioso> sisa
