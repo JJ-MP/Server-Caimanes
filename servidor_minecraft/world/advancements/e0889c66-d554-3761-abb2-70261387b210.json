@@ -111,6 +111,7 @@
       "rotten_flesh": "2025-06-12 01:59:07 +0000",
       "sweet_berries": "2025-06-16 01:43:14 +0000",
       "beef": "2025-06-12 02:37:14 +0000",
+      "porkchop": "2025-06-16 02:55:30 +0000",
       "carrot": "2025-06-16 02:08:27 +0000"
     },
     "done": false
@@ -1262,6 +1263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-16 02:56:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-16 01:44:11 +0000"
@@ -1283,6 +1290,18 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-06-16 01:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-06-16 02:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-16 02:58:42 +0000"
     },
     "done": true
   },
@@ -1364,6 +1383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-16 02:56:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-06-16 01:40:26 +0000"
@@ -1409,6 +1434,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-06-16 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-16 02:56:59 +0000"
     },
     "done": true
   },
@@ -1505,6 +1536,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-16 01:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-16 02:58:42 +0000"
     },
     "done": true
   },
@@ -1637,6 +1674,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-16 01:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-16 02:58:42 +0000"
     },
     "done": true
   },
