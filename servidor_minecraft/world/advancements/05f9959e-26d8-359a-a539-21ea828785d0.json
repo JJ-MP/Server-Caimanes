@@ -7,13 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-06-12 01:42:32 +0000",
       "minecraft:beach": "2025-06-10 23:26:40 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-06-16 01:30:51 +0000",
       "minecraft:forest": "2025-06-10 23:12:41 +0000",
       "minecraft:taiga": "2025-06-12 01:30:47 +0000",
-      "minecraft:ocean": "2025-06-10 23:26:51 +0000",
       "minecraft:river": "2025-06-10 23:28:00 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-12 01:42:32 +0000",
+      "minecraft:frozen_ocean": "2025-06-16 01:43:15 +0000",
+      "minecraft:frozen_river": "2025-06-16 01:37:39 +0000",
+      "minecraft:ocean": "2025-06-10 23:26:51 +0000",
       "minecraft:birch_forest": "2025-06-12 01:42:22 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-16 01:30:08 +0000",
+      "minecraft:snowy_beach": "2025-06-16 01:39:51 +0000",
       "minecraft:plains": "2025-06-10 23:12:54 +0000"
     },
     "done": false
@@ -410,12 +415,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-16 01:32:33 +0000",
       "minecraft:piglin": "2025-06-11 03:10:41 +0000",
       "minecraft:phantom": "2025-06-12 01:21:56 +0000",
       "minecraft:enderman": "2025-06-12 01:14:49 +0000",
       "minecraft:spider": "2025-06-11 00:34:34 +0000",
       "minecraft:zombie": "2025-06-10 23:28:53 +0000",
       "minecraft:creeper": "2025-06-10 23:16:30 +0000",
+      "minecraft:drowned": "2025-06-16 01:46:36 +0000",
       "minecraft:hoglin": "2025-06-12 00:33:39 +0000"
     },
     "done": false
@@ -1447,7 +1454,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-06-11 03:07:34 +0000",
-      "minecraft:chicken": "2025-06-16 01:18:44 +0000"
+      "minecraft:chicken": "2025-06-16 01:18:44 +0000",
+      "minecraft:wolf": "2025-06-16 01:34:55 +0000"
     },
     "done": false
   },
@@ -1913,15 +1921,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-16 01:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 01:16:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-16 01:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-16 01:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-16 01:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-06-16 01:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:black": "2025-06-16 01:33:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-06-16 01:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-16 01:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-16 01:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-16 01:48:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-16 01:48:33 +0000"
     },
     "done": true
   },
@@ -1937,6 +2005,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-16 01:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-16 01:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 01:16:54 +0000"
@@ -1949,9 +2029,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-16 01:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-16 01:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-16 01:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-16 01:47:58 +0000"
     },
     "done": true
   },
