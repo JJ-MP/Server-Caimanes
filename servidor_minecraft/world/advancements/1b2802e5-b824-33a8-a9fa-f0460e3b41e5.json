@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2025-06-16 02:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_tuff_wall": {
     "criteria": {
       "has_polished_tuff": "2025-06-16 01:30:48 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-16 01:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-06-16 02:45:08 +0000"
     },
     "done": true
   },
@@ -713,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-16 02:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-06-16 01:28:51 +0000"
@@ -776,6 +794,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-16 01:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-06-16 02:44:56 +0000"
     },
     "done": true
   },
@@ -1208,6 +1232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-16 02:42:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-06-16 00:41:25 +0000"
@@ -1247,6 +1277,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-16 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-16 02:42:18 +0000"
     },
     "done": true
   },
