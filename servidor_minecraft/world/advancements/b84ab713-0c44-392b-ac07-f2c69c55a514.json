@@ -360,6 +360,7 @@
       "rotten_flesh": "2025-05-29 02:01:02 +0000",
       "cooked_mutton": "2025-05-27 21:15:59 +0000",
       "glow_berries": "2025-05-29 01:52:17 +0000",
+      "sweet_berries": "2025-06-16 01:09:33 +0000",
       "dried_kelp": "2025-05-27 23:26:24 +0000",
       "cooked_beef": "2025-05-27 20:02:31 +0000",
       "beef": "2025-05-27 21:11:30 +0000",
@@ -2616,7 +2617,8 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "minecraft:woods": "2025-05-28 20:34:47 +0000"
+      "minecraft:woods": "2025-05-28 20:34:47 +0000",
+      "minecraft:pale": "2025-06-16 01:15:17 +0000"
     },
     "done": false
   },
